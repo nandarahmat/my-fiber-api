@@ -21,7 +21,7 @@ A RESTful API Toko (Store) built with Go (Golang) and Fiber framework.
 ✅ **Product Management (CRUD Operations)**  
 ✅ **Transaction System**
 
-## Tech Stack
+## 🛠 Tech Stack
 
 **Framework:** Fiber
 
@@ -130,7 +130,7 @@ A RESTful API Toko (Store) built with Go (Golang) and Fiber framework.
 Clone the project
 
 ```bash
-  git clone https://github.com/username/my-fiber-api.git
+  git clone https://github.com/nandarahmat/my-fiber-api.git
   cd my-fiber-api
 ```
 
